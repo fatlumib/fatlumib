@@ -1,5 +1,4 @@
-# Hi, I'm Fatlum Bajrami 👋
-
+# Hi, I'm Fatlum Bajrami 
 Computer Science graduate from Kosovo, focused on Data Engineering and building reliable data pipelines.
 
 ## Skills
